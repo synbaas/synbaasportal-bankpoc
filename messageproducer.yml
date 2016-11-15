@@ -1,5 +1,0 @@
-producer:
-  serializerClass: kafka.serializer.StringEncoder
-  broker: localhost:9092
-  acknowledgement: 1
-  topic: kafkatopic
